@@ -1,0 +1,1 @@
+print("Jeremy deserves an A in INST326!")
